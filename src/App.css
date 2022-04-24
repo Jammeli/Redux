@@ -36,3 +36,28 @@
     transform: rotate(360deg);
   }
 }
+.active {
+  opacity: 0;
+}
+
+.bare {
+  text-decoration: line-through;
+}
+.space{
+  padding: 10px;
+  border: 0px;
+  background-color: white;
+  width: 38px;
+  color: grey;
+}
+.icone {
+    background-color: white;
+    border: 0px;
+    color: grey;
+    
+}
+.icone1 {
+  background-color: white;
+  border: 0px;
+  color: rgb(246, 5, 5);
+}
